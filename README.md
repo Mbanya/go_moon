@@ -1,6 +1,6 @@
-# go_moon
+# Go Moon
 
-A new Flutter project to practice UI building in Dart/Flutter.
+A Flutter project to practice UI building in Dart/Flutter.
 
 ## Items Learnt
  New to flutter development and this app helps solidify the following concepts
