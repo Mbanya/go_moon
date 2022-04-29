@@ -1,16 +1,17 @@
 # go_moon
 
-A new Flutter project.
+A new Flutter project to practice UI building in Dart/Flutter.
 
-## Getting Started
+## Items Learnt
+ New to flutter development and this app helps solidify the following concepts
+  - Stateless Widgets
+  - How to structure Flutter Application
+  - Material Design Widgets
+  - SafeArea, Scaffold, Container, Buttons, Dropdowns, Align, Stack, Image, Columns, Rows widgets
+  - How to create reusable widgets. I create a class that allows me to render different dropdowns
 
-This project is a starting point for a Flutter application.
+Screenshot of the App Below
+Only Android is available at the moment.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2022-04-29 083253](https://user-images.githubusercontent.com/20039642/165889810-fa890d75-e2e9-4456-a608-73c4da8e9003.jpg)
